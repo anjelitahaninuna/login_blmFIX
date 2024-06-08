@@ -1,6 +1,6 @@
 # login_blmFIX
 SUDAH
-pas LOGOUT udah bisa langsung masukE HAL LOGIN 
+pas LOGOUT udah bisa langsung masuk kE HAL LOGIN 
 udah ada  WELCOME sesuai NAMA USER (**TAPI BLM KU RAPIHIN**) pas blm masuk tampilannya malah keluar warning itu yang belum rapih
 pas udah login welcome sesuai nama USER 
 **login sesuai DB**
