@@ -11,7 +11,7 @@ yang belum
 buattt nih tombol login di halaman utama jadi logout di halaman utama
 
 tambahan untuk tabelnya ku pake tabel **user**
-**ku pake JS untuk nampilin pesan error butuh 1 lagi komponen javascript **
+ku pake JS untuk (**nampilin pesan error**) butuh 1 lagi komponen javascript 
 
 
 
