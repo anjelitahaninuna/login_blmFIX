@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color:  #00bc00;
+}
+
+.isi{
+    width: 100%;
+    padding-bottom: 20px;
+    padding-right: 5px;
+    display: flex;
+    max-width: 850px;
+    background: #fff;
+    border-radius:  15px;
+    box-shadow: 0 10px 15px rgba(0,0,0,0.1) ;
+}
+.login_form{
+    width: 400px;
+}
+
+form{
+    width: 250px;
+    margin: 60px;   
+}
+
+.gambar img{
+    width: 450px;
+    height: 100%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+form label{
+    display: block;
+    font-size: 16px;
+    font-weight: 600;
+    padding:  5px;
+}
+
+input{
+    width: 100%;
+    margin: 2px;
+    border: none;
+    outline: none;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid gainsboro;
+}
+
+button{
+    border: none;
+    outline: none;
+    padding: 8px;
+    width:  252px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 5px;
+    background: #00bc00;
+}
+
+button:hover{
+    background-image: url(img/background\ header.jpg);
+}
