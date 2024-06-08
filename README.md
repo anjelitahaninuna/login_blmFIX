@@ -1,6 +1,6 @@
 # login_blmFIX
 SUDAH
-pas LOGOUT udah bisa langsung masuk kE HAL LOGIN 
+pas LOGOUT udah bisa langsung masuk ke HAL LOGIN 
 udah ada  WELCOME sesuai NAMA USER (**TAPI BLM KU RAPIHIN**) pas blm masuk tampilannya malah keluar warning itu yang belum rapih
 pas udah login welcome sesuai nama USER 
 **login sesuai DB**
@@ -11,6 +11,7 @@ yang belum
 buattt nih tombol login di halaman utama jadi logout di halaman utama
 
 tambahan untuk tabelnya ku pake tabel **user**
+**ku pake JS untuk nampilin pesan error butuh 1 lagi komponen javascript **
 
 
 
